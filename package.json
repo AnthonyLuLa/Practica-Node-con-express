@@ -1,0 +1,12 @@
+{
+  "name": "nodexpress",
+  "version": "1.0.0",
+  "description": "node con express",
+  "main": "index.js",
+  "scripts": {
+    "santa": "node santa.sj",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anthony luna",
+  "license": "ISC"
+}
